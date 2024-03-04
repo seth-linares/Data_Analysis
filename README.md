@@ -23,18 +23,6 @@ Through exploratory data analysis, I hope to answer the following questions:
 
 
 
-
-
-
-# Video Demo
-
-
-[Data Analysis Demo](https://youtu.be/-wdGPZkwYbs)
-
-
-
-
-
 # Data Analysis Results
 
 
